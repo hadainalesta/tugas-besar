@@ -1,0 +1,90 @@
+.log{
+    background: #F8DA56;
+
+}
+body{
+    background: #EEE;
+}
+.hitam{
+    background: #000;
+}
+ .kuning  li a:hover{
+    background-color:#F8DA56;
+    color: #000;
+    
+}
+.tab  {
+    width: 60%;
+}
+.aktiv  {
+    background:#F8DA56;
+    color: #000;
+}
+.tulisanmenvar li a{
+    color: #FFF;
+}
+.menuver{
+    background:  #595959;
+    margin-top: 0;
+    height: 1000px;
+}
+.backg{
+    background: #EEEEEE;
+    width: 30%;
+}
+.tengah {
+    margin-left: 30%;
+    margin-right:30%;
+}
+.hijau{
+    background: #21A957;
+
+}
+.ukurbtn{
+    width: 100%;
+}
+.tinggi{
+    padding-top: 5%;
+}
+.h{
+    float: left;
+}
+.form{
+    margin-top: 20%;
+}
+.outter-form {
+    padding: 20px;
+    background: #EEEEEE;
+    position: relative;
+    border-radius: 5px;
+}
+.logo-login {
+    position: absolute;
+    font-size: 35px;
+    background: #21A957;
+    color: #FFFFFF;
+    padding: 10px 18px;
+    top: -40px;
+    border-radius: 50%;
+    left: 40%;
+}
+.inner-login .form-control {
+    background: #D3D3D3;
+}
+h3.title-login {
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+.forget {
+    margin-top: 20px;
+    color: #ADADAD;
+}
+.btn-custom-green {
+    background: #21A957;
+    color: #fff;
+}
+.kanan{
+    margin: 0;
+ 
+}
